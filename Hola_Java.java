@@ -4,7 +4,7 @@ public class Hola_Java {
 		
 		String XXX = "Manuel Dengra";
 		
-		System.out.println("Hola jenkins "+XXX);
+		System.out.println("Hola soc "+XXX+ " y estic fent l'examen de UF2 de M01");
 	}
 
 }
